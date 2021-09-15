@@ -1,0 +1,1 @@
+# emitir-eventos-filho-pra-pai-com-dados-no-vue3
