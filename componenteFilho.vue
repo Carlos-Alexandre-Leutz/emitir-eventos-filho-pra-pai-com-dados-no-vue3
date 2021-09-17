@@ -5,6 +5,11 @@
 </template>
 <script>
 export default {
+//ex do msm evento  no setup
+setup(context) {
+ context.emit("nomeDoMEuEvento");
+ retun{}
+}
  methods: {
   minhaFuncao(){
     let data = "conteudo"; 
