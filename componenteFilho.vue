@@ -6,6 +6,7 @@
 <script>
 export default {
 //ex do msm evento  no setup
+ emits: ["nomeDoMEuEvento"],
 setup(context) {
  context.emit("nomeDoMEuEvento");
  retun{}
